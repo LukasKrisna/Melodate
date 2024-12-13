@@ -1,4 +1,4 @@
-# Melodate
+# Melodate (Machine Learning part)
 
 ## Introduction
 
@@ -6,13 +6,13 @@ Melodate is a music preference-based dating application that aims to create a mo
 
 ## Project Team
 
-- **Mia** - Universitas Bunda Mulia
-- **Vincent Pangdipta** - Universitas Bunda Mulia
-- **Lukas Krisna Prastiyan** - Sekolah Tinggi Ilmu Komputer Yos Sudarso
-- **Dedy Faradzi** - Universitas Pamulang
-- **Medica Normalika Zakiah** - Universitas Pembangunan Nasional Veteran Jawa Timur
-- **Alvin Hartono** - Universitas Bunda Mulia
-- **Bryan Nathaniel** - Universitas Bunda Mulia
+- **Mia** - Machine Learning - Universitas Bunda Mulia
+- **Vincent Pangdipta** - Machine Learning - Universitas Bunda Mulia
+- **Lukas Krisna Prastiyan** - Machine Learning - Sekolah Tinggi Ilmu Komputer Yos Sudarso
+- **Dedy Faradzi** - Cloud Computing - Universitas Pamulang
+- **Medica Normalika Zakiah** - Cloud Computing - Universitas Pembangunan Nasional Veteran Jawa Timur
+- **Alvin Hartono** - Mobile Development - Universitas Bunda Mulia
+- **Bryan Nathaniel** - Mobile Development - Universitas Bunda Mulia
 
 ## Project Scope & Deliverables
 
@@ -53,6 +53,14 @@ Melodate is a music preference-based dating application that aims to create a mo
 ## Getting Started
 
 Clone the repository and navigate to the project directory. Detailed setup and run instructions will be provide soon.
+
+# Machine Learning Overview
+
+## Objective
+
+The objective of recommender feature is to develop a sophisticated recommender system that can accurately predict and suggest potential matches based on users' music preferences. This system is at the core of Melodate's functionality, enabling the application to pair individuals based on shared musical tastes rather than traditional, often superficial matchmaking criteria.
+
+The primary goal of anti porn feature is to develop a machine learning model capable of distinguishing between safe-for-work (SFW) and not-safe-for-work (NSFW) content in images.
 
 ## License
 
