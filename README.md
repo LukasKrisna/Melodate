@@ -62,6 +62,10 @@ The objective of recommender feature is to develop a sophisticated recommender s
 
 The primary goal of anti porn feature is to develop a machine learning model capable of distinguishing between safe-for-work (SFW) and not-safe-for-work (NSFW) content in images.
 
+### NSFW Classification Model
+
+![Result](output.png)
+
 ## License
 
 ## Contact
